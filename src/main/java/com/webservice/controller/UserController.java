@@ -52,7 +52,7 @@ public class UserController {
 	}
 	else
 	{
-		return "Invalid id";
+		return "Invalid id for user";
 	}
 		
 		//BaseResponse base=new BaseResponse<Iterable<User>>(201,"Data Is successfully updated", userinfo);
